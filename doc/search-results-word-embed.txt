@@ -1,0 +1,70 @@
+Top 10 matches:
+name: SH.HIV.INCD.TL.P3;
+display name: Incidence of HIV, all (per 1,000 uninfected population);
+description: Number of new HIV infections among uninfected populations expressed per 1,000 uninfected population in the year before the period.;
+unit: per 1,000 uninfected population;
+unit description: per 1,000 uninfected population;
+
+
+name: SH.HIV.PMTC.ZS;
+display name: Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV);
+description: Percentage of pregnant women with HIV who receive antiretroviral medicine for prevention of mother-to-child transmission (PMTCT).;
+unit: % of pregnant women living with HIV;
+unit description: % of pregnant women living with HIV;
+
+
+name: SH.MLR.INCD.P3;
+display name: Incidence of malaria (per 1,000 population at risk);
+description: Incidence of malaria is the number of new cases of malaria in a year per 1,000 population at risk.;
+unit: per 1,000 population at risk;
+unit description: per 1,000 population at risk;
+
+
+name: SH.HIV.ARTC.ZS;
+display name: Antiretroviral therapy coverage (% of people living with HIV);
+description: Antiretroviral therapy coverage indicates the percentage of all people living with HIV who are receiving antiretroviral therapy.;
+unit: % of people living with HIV;
+unit description: % of people living with HIV;
+
+
+name: SH.VAC.TTNS.ZS;
+display name: Newborns protected against tetanus (%);
+description: Newborns protected against tetanus are the percentage of births by women of child-bearing age who are immunized against tetanus.;
+unit: %;
+unit description: %;
+
+
+name: SH.PRG.ANEM;
+display name: Prevalence of anemia among pregnant women (%);
+description: Prevalence of anemia, pregnant women, is the percentage of pregnant women whose hemoglobin level is less than 110 grams per liter at sea level.;
+unit: %;
+unit description: %;
+
+
+name: SH.STA.ARIC.ZS;
+display name: ARI treatment (% of children under 5 taken to a health provider);
+description: Children with acute respiratory infection (ARI) who are taken to a health provider refers to the percentage of children under age five with ARI in the last two weeks who were taken to an appropriate health provider, including hospital, health center, dispensary, village health worker, clinic, and private physician.;
+unit: % of children under 5 taken to a health provider;
+unit description: % of children under 5 taken to a health provider;
+
+
+name: SH.IMM.IDPT;
+display name: Immunization, DPT (% of children ages 12-23 months);
+description: Child immunization, DPT, measures the percentage of children ages 12-23 months who received DPT vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized against diphtheria, pertussis (or whooping cough), and tetanus (DPT) after receiving three doses of vaccine.;
+unit: % of children ages 12-23 months;
+unit description: % of children ages 12-23 months;
+
+
+name: SH.STA.POIS.P5;
+display name: Mortality rate attributed to unintentional poisoning (per 100,000 population);
+description: Mortality rate attributed to unintentional poisonings is the number of deaths from unintentional poisonings in a year per 100,000 population.  Unintentional poisoning can
+be caused by household chemicals, pesticides, kerosene, carbon monoxide and medicines, or can be the result of environmental contamination or occupational chemical exposure.;
+unit: per 100,000 population;
+unit description: per 100,000 population;
+
+
+name: SH.TBS.CURE.ZS;
+display name: Tuberculosis treatment success rate (% of new cases);
+description: Tuberculosis treatment success rate is the percentage of all new tuberculosis cases (or new and relapse cases for some countries) registered under a national tuberculosis control programme in a given year that successfully completed treatment, with or without bacteriological evidence of success ("cured" and "treatment completed" respectively).;
+unit: % of new cases;
+unit description: % of new cases;

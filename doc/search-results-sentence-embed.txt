@@ -1,0 +1,71 @@
+Top 10 matches:
+name: SH.IMM.IDPT;
+display name: Immunization, DPT (% of children ages 12-23 months);
+description: Child immunization, DPT, measures the percentage of children ages 12-23 months who received DPT vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized against diphtheria, pertussis (or whooping cough), and tetanus (DPT) after receiving three doses of vaccine.;
+unit: % of children ages 12-23 months;
+unit description: % of children ages 12-23 months;
+
+
+name: SH.IMM.MEAS;
+display name: Immunization, measles (% of children ages 12-23 months);
+description: Child immunization, measles, measures the percentage of children ages 12-23 months who received the measles vaccination before 12 months or at any time before the survey. A child is considered adequately immunized against measles after receiving one dose of vaccine.;
+unit: % of children ages 12-23 months;
+unit description: % of children ages 12-23 months;
+
+
+name: SH.IMM.HEPB;
+display name: Immunization, HepB3 (% of one-year-old children);
+description: Child immunization rate, hepatitis B is the percentage of children ages 12-23 months who received hepatitis B vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized after three doses.;
+unit: % of one-year-old children;
+unit description: % of one-year-old children;
+
+
+name: PopulationPer1kmResolution;
+display name: Estimated Total Number of People Per Grid-Cell at a Resolution of 30 arc seconds (approx 1km at the equator);
+description: Estimated Total Number of People Per Grid-Cell at a Resolution 30 arc seconds (approx 1km at the equator) (people);
+unit: people;
+unit description: people;
+
+
+name: Total Children;
+display name: Total Children;
+description: The total number of children (5-14 years) displaced
+;
+unit: number of people;
+unit description: ;
+
+
+name: Total Infants;
+display name: Total Infants;
+description: The total number of infants (0-4 years) displaced
+;
+unit: number of people;
+unit description: ;
+
+
+name: SH.DTH.0509;
+display name: Number of deaths ages 5-9 years;
+description: Number of deaths of children ages 5-9 years;
+unit: NA;
+unit description: NA;
+
+
+name: SH.HIV.INCD.TL.P3;
+display name: Incidence of HIV, all (per 1,000 uninfected population);
+description: Number of new HIV infections among uninfected populations expressed per 1,000 uninfected population in the year before the period.;
+unit: per 1,000 uninfected population;
+unit description: per 1,000 uninfected population;
+
+
+name: SH.HIV.INCD.14;
+display name: Children (ages 0-14) newly infected with HIV;
+description: Number of children (ages 0-14) newly infected with HIV.;
+unit: NA;
+unit description: NA;
+
+
+name: SH.HIV.INCD.TL;
+display name: Adults (ages 15+) and children (ages 0-14) newly infected with HIV;
+description: Number of adults (ages 15+) and children (ages 0-14) newly infected with HIV.;
+unit: NA;
+unit description: NA;
